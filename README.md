@@ -1,6 +1,6 @@
 # 4chanX-Degeneracy-Filter
 A list of unique image MD5s representing content containing BBC/blacked, scat, gay, babecock, etc.  
-Filters the following content:
+Filters the following content:  
 -BBC/black male/blacked  
 -Sissy hypno  
 -Scat/piss/wetting/messing/diapers  
