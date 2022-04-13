@@ -1,6 +1,6 @@
 # 4chanX-Degeneracy-Filter
 
-(2022-04-13) updated mediafire link: https://www.mediafire.com/file/z8v8pyj83zxogt8/filter_md5.txt
+(2022-04-13) updated mediafire link: https://www.mediafire.com/file/z8v8pyj83zxogt8/filter_md5.txt  
 A list of unique image MD5s representing content containing BBC/blacked, scat, gay, babecock, etc.  
 Filters the following content:  
 -BBC/black male/blacked  
